@@ -11,4 +11,6 @@ Few a few months ago `doomsday-epilouge.avi` didn't make a new tape but it's can
 # Note
 This Fully Open-Source/Source Code will be coming soon to Github repository.
 
+**Go check to Releases:** https://github.com/MasterNama17083/UltraMario96Tape-Binary/releases
+
 Enjoy!
